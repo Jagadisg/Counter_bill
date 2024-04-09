@@ -156,3 +156,5 @@ SWAGGER_SETTINGS = {
         }
     }
 }
+
+CSRF_TRUSTED_ORIGINS = ['counterbill-production.up.railway.app']
